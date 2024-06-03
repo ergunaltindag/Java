@@ -1,0 +1,9 @@
+#hero-container {
+    margin-top: 5rem;
+}
+
+#hero-container>img {
+    width: 45%;
+    margin-left: 25%;
+    padding: 1.5rem 0;
+}

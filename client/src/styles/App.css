@@ -1,0 +1,23 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background-color: white;
+    margin: 0;
+    padding: 0;
+    font-family: 'Nova Square', sans-serif;
+}
+
+h1 {
+    text-align: center;
+    letter-spacing: 2.5px;
+    margin: 20px 0;
+}
+.border-form {
+    border: 3px solid #ddd; /* You can adjust the border style, color, and width */
+    padding: 20px;
+    border-radius: 20px; /* Optional: to add rounded corners */
+  }
+
+  
